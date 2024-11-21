@@ -1,0 +1,12 @@
+# from tkinter import*
+# root=Tk()
+# root.title("pythonlobby")
+# rb1=StringVar(root,"2")
+# rdbtn1=Radiobutton(root,text="radiobutton1",variable=rb1,value="1")
+# rdbtn1.pack()
+# rdbtn2=Radiobutton(root,text="radiobutton2",variable=rb1,value="2")
+# rdbtn2.pack()
+# rdbtn3=Radiobutton(root,text="radiobutton3",variable=rb1,value="3")
+# rdbtn3.pack()
+# root.geometry("250x220")
+# root.mainloop()
